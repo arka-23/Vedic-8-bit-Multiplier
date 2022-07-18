@@ -6,8 +6,8 @@ This repository contains the proposed design and simulated results for a 8 bit V
 # Table of Contents
    * [Abstract](#abstract)
   * [Circuit Design Details](#circuit-design-details) 
- - [Verilog Implementation](#verilog-implementation) 
- - [References](#references)
+ * [Verilog Implementation](#verilog-implementation) 
+ * [References](#references)
 
 
 ## Abstract
