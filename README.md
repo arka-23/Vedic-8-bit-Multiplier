@@ -79,7 +79,22 @@ Verilog Code:
    
    ![image](https://user-images.githubusercontent.com/70422874/179450290-9a6069ef-77e5-4e3a-9226-dfc06a7b550b.png)
 
-![image](https://user-images.githubusercontent.com/70422874/179450351-b52df147-76f0-4f8c-9f61-fc297425b449.png)
+   ![image](https://user-images.githubusercontent.com/70422874/179450351-b52df147-76f0-4f8c-9f61-fc297425b449.png)
+   
+   ![image](https://user-images.githubusercontent.com/70422874/179450416-b11e5694-9f6e-46e1-844c-2455da1c81da.png)
 
+Verilog Testbench:
+
+![image](https://user-images.githubusercontent.com/70422874/179450487-9c652875-6d90-498c-987b-cbc2fcb44779.png)
+
+Outputs:
+
+![image](https://user-images.githubusercontent.com/70422874/179450541-db95545a-b0b6-43b9-8d99-318a31a5433b.png)
+
+
+## References
+ - Douglas A. Pucknell, Kamran Eshraghian, “ Basic VLSI Design”, PHI, Third Edition.
+ - Neil Weste, Harris \& Banerjee, CMOS VLSI   Design: A Circuits and Systems Perspective,   Edition, Pearson Education, Boston.
+ - http://vlsinano.blogspot.com/2018/03/vedic-multiplier-verilog-code-and.html
 
 
